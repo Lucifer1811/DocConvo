@@ -59,11 +59,3 @@ DocConvo incorporates [LangChain](https://langchain.ai/), a versatile text proce
 - **Language Model Hub:** Integrate Hugging Face Hub for language model management.
 
 Explore the power of LangChain alongside DocConvo to unlock a seamless and interactive document exploration experience.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
