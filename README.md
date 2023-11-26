@@ -38,15 +38,21 @@ DocConvo is an innovative tool that facilitates natural language interactions fo
 
 ## Usage
 
-1. Run the application:
+0. create a .env file and add the hugging face api token in the following format:
+
+    ```
+    HUGGINGFACEHUB_API_TOKEN=your_api_token
+    ```
+
+2. Run the application:
 
     ```bash
     streamlit run your app.py
     ```
 
-2. Open your web browser and navigate to the provided local URL.
+3. Open your web browser and navigate to the provided local URL.
 
-3. Upload PDF documents and start asking questions.
+4. Upload PDF documents and start asking questions.
 
 ## LangChain Integration
 
